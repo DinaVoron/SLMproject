@@ -6,7 +6,7 @@
 - use_4bit: true (только для GPU) / false (для CPU)
 - use_lemmatizer: / false
 ### Структура проекта
-├── config.json          
+```├── config.json          
 ├── qa_adapter/          
 └── src/
     ├── main.py
@@ -16,4 +16,4 @@
     ├── Preprocessor.py
     ├── Postprocessor.py
     ├── Retriever.py
-    └── ConfigLoader.py
+    └── ConfigLoader.py```
